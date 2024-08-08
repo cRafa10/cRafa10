@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cRafa10
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning SQL and polishing my python & R skills.
+- 👀 I’m interested in pursuing a career in data analitics 
+- 🌱 I’m currently learning SQL and polishing my Python & R skills.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... carlos.rafalopez99@gmail.com
+- 📫 How to email me carlos.rafalopez99@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
